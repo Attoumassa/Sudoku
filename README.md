@@ -1,5 +1,6 @@
-**Objectif**
-L'objectif de ce projet est de pouvoir résoudre des tables de Sudoku en justifiant chaque coup.
+**Objectif :**
+
+L'objectif de ce projet est de réaliser un programme permettant de résoudre des tables de Sudoku en justifiant chaque coup.
 
 
 
